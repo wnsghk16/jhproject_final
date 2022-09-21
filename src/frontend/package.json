@@ -16,7 +16,7 @@
     "vue-js-modal": "^2.0.0-rc.3",
     "vue-router": "^3.2.0",
     "vue-youtube-embed": "^2.2.2",
-    "vuetify": "^2.2.11",
+    "vuetify": "^2.6.10",
     "vuex": "^3.4.0"
   },
   "devDependencies": {
